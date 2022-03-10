@@ -1,0 +1,25 @@
+**Unblocked Web Browser**
+
+If you follow the right steps, when you use Firefox on the Windows computers, everything is unblocked!
+
+**IF YOU ALREADY HAVE THE MICROSOFT STORE UNBLOCKED, DOWNLOAD FIREFOX FROM THE BUSINESSSTORE AND SKIP TO STEP 4!**
+
+1. Go to this website: https://www.microsoft.com/en-us/p/mozilla-firefox-browser/9nzvdkpmr9rd?cid=msft_web_chart#activetab=pivot:overviewtab
+
+2. Download Firefox and make sure you open the download in the Microsoft Store application.
+
+3. Download it. (If you get an error just keep clicking on the link and open it in the app)
+
+4. Once you have Firefox installed go to the Firefox settings.
+
+5. Search for DNS in settings
+
+6. Click the Settings button next to Network settings.
+
+7. At the top of the popup, make sure "No proxy" is selected.
+
+8. Scroll to the bottom of the popup and check "Enable DNS over HTTPS"
+
+9. For "Use provider" select "NextDNS"
+
+10. Now all websites are unblocked on Firefox! :)
