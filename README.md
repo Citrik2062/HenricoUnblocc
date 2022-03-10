@@ -4,3 +4,5 @@ Most of these are for the Windows computers for the middle and high schoolers, a
 Contents so far:
 
 Unblock Microsoft Store
+
+Unblocked Web Browser
