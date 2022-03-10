@@ -1,0 +1,52 @@
+**These are the steps to unblock the Microsoft Store**
+
+1. Go to https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot%3aoverviewtab
+
+2. Click on Free trial.
+
+3. Enter your SCHOOL email (hcps-...)
+
+4. Click on Create a new account instead.
+
+5. Fill out all the information required (make sure you use your real phone number for verification) (For company name, put in what you want at the end of the work email
+that gets created for you, so your email will be [Your username]@[Your company name].onmicrosoft.com)
+
+6. Set your company size to 2-4.
+
+7. When it asks you to download Microsoft Office, just click continue.
+
+8. Keep clicking continue for all the steps that show up.
+
+9. When It asks you to add a domain, click "No, use default domain"
+
+10. When it takes you to the Microsoft Admin center, you can close out of that tab.
+
+11. Go to https://businessstore.microsoft.com/en-us/store?signin=
+
+12. Make sure you are signed in with the email that you just created.
+
+13. Click on "Private store" at the top
+
+14. Agree to the terms and conditions and enable it.
+
+15. Keep the tab open and open the Microsoft Store app on your computer
+
+16. Sign out of all the accounts on the app and log in with the email you just created
+
+17. Go back to the Businessstore tab and click on "Shop for my group"
+
+18. Now you can download (almost) any app!
+
+**How to Install an App**
+
+1. On the Businessstore, go to Shop for my group and search the store for an app.
+
+2. Click on an app and click "Get the app"
+
+3. Close the popup
+
+4. Click install
+
+5. Click "Open Microsoft Store"
+
+6. When it takes you to the Microsoft Store application, just install the app and wait for it to dowload :)
