@@ -5,4 +5,4 @@ Contents so far:
 
 Unblock Microsoft Store
 
-Unblocked Web Browser
+Unblocced Web Browser
